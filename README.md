@@ -1,24 +1,53 @@
-<details id=0 open>
-<summary><h2>Welcome</h2></summary>
+# Hi there, I'm Andy Luna Izaguirre! 👋
+**Software Engineering Student & Competitive Programmer**
 
-## About Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/andy-luna-izaguirre/">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
 
-I am a passionate web developer with a strong foundation in back-end and front-end technologies. I thrive in dynamic environments where I can leverage my skills to tackle challenging problems and contribute to innovative solutions.
+---
 
-My journey in programming began when I was 15 years old. Since then, I have started practicing by creating my own web pages. I furthered my knowledge by taking various programming courses.
+## 🚀 About Me
 
-### Skills
+I am a passionate **Software Engineering student** at **Universidad Nacional de Costa Rica (UNA)**, specializing in full-stack development and high-performance algorithms. My programming journey started when I was 15 years old by building my own web pages, which evolved into engineering secure, complex production systems and competing at regional algorithmic circuits.
 
-- CSS
-- HTML
-- JavaScript
-- Python
-- Angular
-- C#
-- 
-### Education
+- 🛠️ **Current Focus:** Co-engineering a multi-tenant enterprise fintech portal incorporating passwordless OpenDID architecture, verifiable credentials, and dynamic QR systems.
+- 🏆 **Competitive Coding:** ICPC Central American Regional Finalist and active IEEEXtreme competitor.
+- 💡 **Core Philosophy:** Writing high-efficiency, cleanly-structured code to solve real-world problems.
 
-I am currently pursuing a degree in Computer Science, where I am expanding my understanding of programming languages and software development principles.
+---
 
-</details>
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages & Performance
+- **Advanced / Proficient:** C++, Python, SQL (Oracle SQL, MariaDB)
+- **Intermediate / Frameworks:** JavaScript, Java, HTML5, CSS3, C#
+
+### 🌐 Software Engineering & Backend
+- **Frameworks & Libraries:** Angular, React, Node.js, JPA / Hibernate
+- **Tools & Ecosystem:** Git & GitHub, Linux Command Line, Bash Scripting, AWS (S3, CLI)
+- **Methodologies & Concepts:** Rest APIs, Data Structures & Algorithms, DevOps (CI/CD Concepts), Agile/Scrum
+
+---
+
+## 🏆 Key Achievements
+
+- **ICPC Central American Regional Finalist** (Aug 2026)  
+  Qualified for the regional finals after competing against 120+ top-tier university teams, solving complex algorithmic problems using advanced C++.
+- **Enterprise Fintech Web Integration**  
+  Successfully co-engineered a secure, scalable mobile-responsive digital ledger and scholarship system commissioned for university campuses.
+
+---
+
+## 📊 Git Activity & Progress
+*Currently polishing data structures training sets and archiving competitive programming solutions.*
+
+---
+
+## 📬 Connect With Me
+
+- **Email:** <layout>followupButton(query="""Draft an email to andy.luna.izaguirre@gmail.com""", label="""andy.luna.izaguirre@gmail.com""", variant=FOLLOWUP_BUTTON_VARIANT_EMAIL_DROPDOWN)</layout>
+- **LinkedIn:** [linkedin.com/in/andy-luna-izaguirre](https://www.linkedin.com/in/andy-luna-izaguirre/)
 
