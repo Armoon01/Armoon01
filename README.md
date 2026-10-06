@@ -1,12 +1,6 @@
 # Hi there, I'm Andy Luna Izaguirre! 👋
 **Software Engineering Student & Competitive Programmer**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andy-luna-izaguirre/">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -28,7 +22,7 @@ I am a passionate **Software Engineering student** at **Universidad Nacional de 
 ### 🌐 Software Engineering & Backend
 - **Frameworks & Libraries:** Angular, React, Node.js, JPA / Hibernate
 - **Tools & Ecosystem:** Git & GitHub, Linux Command Line, Bash Scripting, AWS (S3, CLI)
-- **Methodologies & Concepts:** Rest APIs, Data Structures & Algorithms, DevOps (CI/CD Concepts), Agile/Scrum
+- **Methodologies & Concepts:** REST APIs, Data Structures & Algorithms, DevOps (CI/CD Concepts), Agile/Scrum
 
 ---
 
@@ -48,6 +42,5 @@ I am a passionate **Software Engineering student** at **Universidad Nacional de 
 
 ## 📬 Connect With Me
 
-- **Email:** <layout>followupButton(query="""Draft an email to andy.luna.izaguirre@gmail.com""", label="""andy.luna.izaguirre@gmail.com""", variant=FOLLOWUP_BUTTON_VARIANT_EMAIL_DROPDOWN)</layout>
-- **LinkedIn:** [linkedin.com/in/andy-luna-izaguirre](https://www.linkedin.com/in/andy-luna-izaguirre/)
-
+- **💼 LinkedIn:** [linkedin.com/in/andy-luna-izaguirre](https://www.linkedin.com/in/andy-luna-izaguirre/)
+- **✉️ Email:** andy.luna.izaguirre@gmail.com
